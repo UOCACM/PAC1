@@ -29,6 +29,7 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <ul>
     <li><b>Generación Archivo Links</b> Extracción informacion Links de los diferentes masters</li>
     <li><b>Extracción Información Masters</b> Se lee archivo anterior con listado de links de cada master individual. Se extrae la información de cada uno de los Masters</li>
+    <li><b>Extracción Imagenes</b> Extracción de información en formato grafico. Se trata de los Logos de las diferentes instituciones que ofrecen cursos.</li>
 </ul>
 
 <p> Se han desarrollado dos maneras diferentes de obtención de la informacion de los Masteres:</p>
@@ -53,6 +54,12 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <ul>
   <li><b>RESULT-27-03-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
   <li><b>RESULT-27-03-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
+</ul>
+
+<h4>IMAGENES:</h4>
+<ul>
+  <li><b>XXXXXX.jpg</b> - Conjunto de Archivos de Imagenes Descargados (.jpg).</li>
+  <li><b>XXXXXX.png</b> - Conjunto de Archivos de Imagenes Descargados (.png).</li>
 </ul>
 
 <h4>DESCRIPCION:</h4>
