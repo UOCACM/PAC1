@@ -21,7 +21,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 </ul>
 
 <h2> Consideración Generales</h2>
-<p> La estructura de la solución diseñada es modular con el objetivo de simplicar el mantenimiento y el proceso de mejora en proximas versiones.</p>
+<p> La estructura de la solución diseñada es modular con el objetivo de simplicar el mantenimiento y el proceso de mejora en futuras versiones.</p>
+<p> Para simplificar la identificaciones de posibles bugs e incidencias en la ejecución asi como para favorecer el desarrollo de mejoras sobre el código propuesto se documenta todo el proceso en los diferentes logs. (Terminal & Fichero )</p>
 <p> Los pasos considerados han sido</p>
 <ul>
     <li><b>Generación Archivo Links</b> Extracción informacion Links de los diferentes masters</li>
@@ -39,9 +40,9 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <p>Este proyecto se ha desarrollado integramente en Python utilizando la herramienta Visual Studio Code. Continene varios archivos en formato notebook, y varios directorios con la siguiente estructura.:</p>
 <h4>CODIGOS:</h4>
 <ul>
-  <li><b>PRA01.ipynb</b> - Contiene todo el código Python del WebScraping desarrollado.</li>
-  <li><b>loggingUOCPRA01.conf</b> - Archivo Auxiliar de configuración de loggins para el archivo Python anterior.</li>
-  <li><b>UOCPRA01.log</b> - Archivo auxiliar log en formato .txt resultado de la ejecución del archivo (.ypynb).</li>
+  <li><b>PRA01.ipynb</b> - Contiene todo el código Python del WebScraping desarrollado.(Formato Notebook Python)</li>
+  <li><b>loggingUOCPRA01.conf</b> - Archivo Auxiliar de configuración de loggins para el archivo Python anterior. (Formato txt)</li>
+  <li><b>UOCPRA01.log</b> - Archivo auxiliar log en formato .txt resultado de la ejecución del archivo python.</li>
 </ul>
 
 <h4>RESULTADOS:</h4>
@@ -55,3 +56,18 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
   <li><b>M2851_PRA1.docx</b> - Incluye el contenido de la practica en formato (.docx)</li>
   <li><b>M2851_PRA1.pdf</b> - Incluye el contenido de la practica en formato (.pdf)</li>
 </ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Creditos</h2>
+
+Agradecemos a los diferentes autores de las siguientes referencias el habernos facilitado el trabajo de desarrollo:
+
+<ul>
+  <li>https://stackoverflow.com/questions/66876071/extracting-a-complex-substring-using-regex-with-data-from-a-string-in-python</li>
+  <li>https://stackoverflow.com/questions/14473180/regex-to-get-a-filename-from-a-url</li>
+  <li>https://medium.com/@kunal.rustagi/boost-your-web-crawler-using-multiple-processes-in-python-3cc3ff519226</li>
+  <li>https://coderzcolumn.com/tutorials/python/logging-config-simple-guide-to-configure-loggers-from-dictionary-and-config-files-in-python</li>
+</ul>
+
