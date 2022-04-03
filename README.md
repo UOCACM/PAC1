@@ -7,31 +7,31 @@
 
 
 <p>En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.</p>
-<p>Nos planteamos recopilar y almacenar, para posteriormente analizar, la información relativa a las posibles <b>ofertas de estudios de máster<b>.<p>
+<p>Nos planteamos recopilar y almacenar, para posteriormente analizar, la información relativa a las posibles <b>ofertas de estudios de máster</b>.</p>
 <p>El objetivo de obtener esta información es el disponer de un único fichero, sin necesidad de visitar cada una de las webs, con la información que consideramos más relevante para elegir el máster considerado.
 Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de másteres, y tratamos de obtener toda la información que nos ayude a la elección del máster deseado. </p>
 <p>Consideramos que la información relevante para desarrollar esta decisión es:<p>
 <ul>
-    <li>Descripción del máster: tipología, duración, metodología, …<li>
-    <li>Precio<li>
-    <li>Requisitos<li>
-    <li>A quién va dirigido<li>
-    <li>Posible financiación<li>
-    <li>Opiniones<li>
+    <li> Descripción del máster: tipología, duración, metodología, …</li>
+    <li> Precio</li>
+    <li> Requisitos</li>
+    <li> A quién va dirigido</li>
+    <li> Posible financiación</li>
+    <li> Opiniones</li>
 </ul>
 
 <h2> Consideración Generales</h2>
-<p> La estructura de la solución diseñada es modular con el objetivo de simplicar el mantenimiento y el proceso de mejora en proximas versiones.<p>
-<p> Los pasos considerados han sido<p>
+<p> La estructura de la solución diseñada es modular con el objetivo de simplicar el mantenimiento y el proceso de mejora en proximas versiones.</p>
+<p> Los pasos considerados han sido</p>
 <ul>
-    <li><b>Generación Archivo Links</b> Extracción informacion Links de los diferentes masters<li>
-    <li><b>Extracción Información Masters</b> Se lee archivo anterior con listado de links de cada master individual. Se extrae la información de cada uno de los Masters<li>
+    <li><b>Generación Archivo Links</b> Extracción informacion Links de los diferentes masters</li>
+    <li><b>Extracción Información Masters</b> Se lee archivo anterior con listado de links de cada master individual. Se extrae la información de cada uno de los Masters</li>
 </ul>
 
-<p> Se han desarrollado dos maneras diferentes de obtención de la informacion de los Masteres:<p>
+<p> Se han desarrollado dos maneras diferentes de obtención de la informacion de los Masteres:</p>
 <ul>
-    <li><b>MODO SECUENCIAL</b> El acceso a los diferentes links WEB se desarrolla de forma secuencial (Mayor tiempo de ejecución).<li>
-    <li><b>MODO MULTIPROCESO</b> El acceso a los diferentes links WEB se desarrolla de forma paralela (Menor tiempo de ejecución).<li>
+    <li><b>MODO SECUENCIAL</b> El acceso a los diferentes links WEB se desarrolla de forma secuencial (Mayor tiempo de ejecución).</li>
+    <li><b>MODO MULTIPROCESO</b> El acceso a los diferentes links WEB se desarrolla de forma paralela (Menor tiempo de ejecución).</li>
 </ul>
 
 <h2> :floppy_disk: Descripción archivos proyecto</h2>
