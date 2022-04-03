@@ -20,6 +20,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
     <li> Opiniones</li>
 </ul>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> Consideración Generales</h2>
 <p> La estructura de la solución diseñada es modular con el objetivo de simplicar el mantenimiento y el proceso de mejora en futuras versiones.</p>
 <p> Para simplificar la identificaciones de posibles bugs e incidencias en la ejecución asi como para favorecer el desarrollo de mejoras sobre el código propuesto se documenta todo el proceso en los diferentes logs. (Terminal & Fichero )</p>
@@ -34,6 +36,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
     <li><b>MODO SECUENCIAL</b> El acceso a los diferentes links WEB se desarrolla de forma secuencial (Mayor tiempo de ejecución).</li>
     <li><b>MODO MULTIPROCESO</b> El acceso a los diferentes links WEB se desarrolla de forma paralela (Menor tiempo de ejecución).</li>
 </ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :floppy_disk: Descripción archivos proyecto</h2>
 
