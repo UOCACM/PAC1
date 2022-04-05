@@ -5,6 +5,7 @@
 <h3 align="center"> Ángel A. Urbina Sánchez </h3>
 <h5 align="center"> Practica 1 - <a href="https://www.uoc.edu/">Universitat Oberta de Catalunya</a> (Primavera 2022) </h5>
 
+[![Release](https://img.shields.io/github/release/vhesener/Closures.svg?style=plastic&colorB=68B7EB)]()
 
 <p>En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar herramientas de extracción de datos.</p>
 <p>Nos planteamos recopilar y almacenar, para posteriormente analizar, la información relativa a las posibles <b>ofertas de estudios de máster</b>.</p>
@@ -52,8 +53,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 
 <h4>RESULTADOS:</h4>
 <ul>
-  <li><b>RESULT-27-03-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
-  <li><b>RESULT-27-03-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
+  <li><b>RESULT-05-04-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
+  <li><b>RESULT-05-04-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
 </ul>
 
 <h4>IMAGENES:</h4>
