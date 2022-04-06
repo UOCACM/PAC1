@@ -15,10 +15,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <ul>
     <li> Descripción del máster: tipología, duración, metodología, …</li>
     <li> Precio</li>
-    <li> Requisitos</li>
-    <li> A quién va dirigido</li>
-    <li> Posible financiación</li>
-    <li> Opiniones</li>
+    <li> Entidad</li>
+    <li> Programa</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
