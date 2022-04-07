@@ -15,8 +15,10 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <ul>
     <li> Descripción del máster: tipología, duración, metodología, …</li>
     <li> Precio</li>
-    <li> Entidad</li>
-    <li> Programa</li>
+    <li> Requisitos</li>
+    <li> A quién va dirigido</li>
+    <li> Posible financiación</li>
+    <li> Opiniones</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -51,8 +53,8 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 
 <h4>RESULTADOS:</h4>
 <ul>
-  <li><b>RESULT-05-04-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
-  <li><b>RESULT-05-04-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
+  <li><b>InfoMaster-07-04-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
+  <li><b>InfoMaster-07-04-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
 </ul>
 
 <h4>IMAGENES:</h4>
