@@ -53,6 +53,7 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 <ul>
   <li><b>InfoMaster-07-04-22.xlsx</b> - Contiene la información extraida de la Web en formato (.xlsx).</li>
   <li><b>InfoMaster-07-04-22.csv</b> - Si existe. Contiene la información extraida de la Web en formato (.csv).</li>
+    <li>Link a Zenodo https://zenodo.org/record/6425416#.YlBHLchBxPY</li>
 </ul>
 
 <h4>IMAGENES:</h4>
