@@ -77,7 +77,7 @@ Elegimos <a href=https://www.emagister.com>Emagister</a>, web buscadora de mást
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
-<h2 id="credits"> :scroll: Creditos</h2>
+<h2 id="credits"> :video: Creditos</h2>
 
 Agradecemos a los diferentes autores de las siguientes referencias el habernos facilitado el trabajo de desarrollo:
 
